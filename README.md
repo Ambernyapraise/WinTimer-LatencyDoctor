@@ -151,3 +151,4 @@ No. Network routing and DNS issues are separate from local Windows latency.
 
 *Independent open-source Windows utility. Not affiliated with Microsoft Corporation.*
  
+ 
